@@ -1,0 +1,76 @@
+#stream-tester .tool-settings {
+	background-color: #fff;
+	font-family: Arial, sans-serif !important;
+	padding: 0;
+}
+
+#stream-tester input#file {
+	border: 1px solid #ccc;
+	font-family: Arial, sans-serif
+}
+
+#stream-tester .tool-settings h2 {
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+#stream-tester .tool-settings small {
+	color: #666;
+	font-size: 12px;
+	opacity: 1;
+}
+
+#stream-tester .drm-item-selected {
+	background-color: #eee;
+}
+
+#stream-tester .tool-settings label {
+	color: #000;
+	font-size: 12px;
+}
+
+#stream-tester .drm-item-not-supported label {
+	color: #666;
+}
+
+#stream-tester .tool-player p {
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+}
+
+.jw-tool .tool-player .player-preview {
+    background-color: #0b7ef4;
+ }
+
+ .jw-tool .tool-settings small a {
+ 	color: #0B7EF4;
+ }
+
+.alert {
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 40px 40px 0 40px;
+    padding: 15px 20px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.alert.warning {
+	background-color: #fffaf2;
+    border: 1px solid #ffeacc;
+    color: #995900;
+}
+
+.alert strong {
+	display: block;
+	font-weight: bold;
+	color: #FF9400;
+}
+
+img.jwplayer-logo-black {
+	margin-top: 30px;
+	opacity: .15;
+}

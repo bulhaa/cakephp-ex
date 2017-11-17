@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>FYI channel video</title>
+    <title>Play.mv Pro Version</title>
     <link rel="stylesheet" href="JW Developer - HTTP Stream Tester_files/developer.css">
     <!-- <link rel="stylesheet" href="JW Developer - HTTP Stream Tester_files/developer.min.css"> -->
     <link rel="stylesheet" href="JW Developer - HTTP Stream Tester_files/style.css">

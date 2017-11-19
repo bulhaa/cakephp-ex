@@ -9,7 +9,7 @@ jwplayer.defaults = {
   "displaytitle": true,
   "flashplayer": "//ssl.p.jwpcdn.com/player/v/8.0.4/jwplayer.flash.swf",
   "height": 260,
-  "key": "ssII0ifm3P3KWgDN26u+M7LmxdWwvgzzpCPHa2fpzG+cgFYDbCmHfg==",
+  "key": "6uKTy+TMUjCpDsIj/X9bQ6g27F5l3I8vX2URJ4PVWTVDe0W4HaQ6eQ==",
   "mute": false,
   "ph": 1,
   "pid": "wr6i4gal",

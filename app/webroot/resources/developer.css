@@ -5681,7 +5681,7 @@ Product Links
 }
 @media (min-width: 480px) {
   .demo-index-list li {
-    width: 16%;
+    width: 20%;
   }
 }
 @media (min-width: 960px) {
@@ -5801,7 +5801,7 @@ Product Links
   background-image: url(//icons.jwplayer.com/icons/white/customize.svg);
 }
 .demo-index-list li .body {
-  padding: 20px 20px 30px;
+  /* padding: 20px 20px 30px; */
 }
 .demo-index-list li h3 {
   color: #475470;
